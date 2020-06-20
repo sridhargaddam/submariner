@@ -181,6 +181,8 @@ github.com/spf13/pflag v0.0.0-20170130214245-9ff6c6923cff/go.mod h1:DYY7MBk1bdzu
 github.com/spf13/pflag v1.0.2/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
 github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
+github.com/sridhargaddam/shipyard v0.0.0-20200620110107-61d758ad1d16 h1:+CJAp2YLnDyZ2BuH0dyBPXW+j7puDrl5maLCefSD9z0=
+github.com/sridhargaddam/shipyard v0.0.0-20200620110107-61d758ad1d16/go.mod h1:S0Mno2JEz+psZaVo6s3oajrWG+7JznEylp5y1F+Fjec=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
@@ -191,10 +193,8 @@ github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJy
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/submariner-io/admiral v0.3.0 h1:Uekw2S/fX/1M84K5tBYSpIyEKACME9V8H3FmWjWRpPI=
 github.com/submariner-io/admiral v0.3.0/go.mod h1:LQLwQPh+PMV/88sBi3EPt5sZ8wWjyD04HkNhuAbHmxE=
-github.com/submariner-io/shipyard v0.0.0-20200415131458-43e0c8dc8ea3 h1:ORpKiuzSyL3pMHt6y9RbMSlyBkhcVxO7mtddatr1HMo=
-github.com/submariner-io/shipyard v0.0.0-20200415131458-43e0c8dc8ea3/go.mod h1:tm9TSwLsOFQxsOgbXCC4EpPQF01K4fsxUJaV+0rn4pI=
-github.com/submariner-io/shipyard v0.3.1-0.20200604152443-d185e59a7388 h1:hSBpa/+NMrSI1p9MKAm3ozSDzOUzzBlngVtUViQyl8c=
-github.com/submariner-io/shipyard v0.3.1-0.20200604152443-d185e59a7388/go.mod h1:zGQ3LzJ8KO4NN+EQAcHWEK73pyy6lW51ku552FhRMqI=
+github.com/submariner-io/shipyard v0.3.0 h1:GiYCxGAQpAZJN1wKVlzH/eQliHZE6R1hXRN5wVLaWgY=
+github.com/submariner-io/shipyard v0.3.0/go.mod h1:tm9TSwLsOFQxsOgbXCC4EpPQF01K4fsxUJaV+0rn4pI=
 github.com/vishvananda/netlink v1.1.0 h1:1iyaYNBLmP6L0220aDnYQpo1QEV4t4hJ+xEEhhJH8j0=
 github.com/vishvananda/netlink v1.1.0/go.mod h1:cTgwzPIzzgDAYoQrMm0EdrjRUBkTqKYppBueQtXaqoE=
 github.com/vishvananda/netns v0.0.0-20191106174202-0a2b9b5464df h1:OviZH7qLw/7ZovXvuNyL3XQl8UFofeikI1NW1Gypu7k=

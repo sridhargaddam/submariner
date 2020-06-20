@@ -7,7 +7,7 @@ import (
 	"time"
 
 	. "github.com/onsi/gomega"
-	"github.com/submariner-io/shipyard/test/e2e/framework/ginkgowrapper"
+	"github.com/sridhargaddam/shipyard/test/e2e/framework/ginkgowrapper"
 	"github.com/submariner-io/submariner/pkg/datastore"
 	"github.com/submariner-io/submariner/pkg/types"
 )

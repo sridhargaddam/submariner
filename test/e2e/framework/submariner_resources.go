@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	. "github.com/onsi/gomega"
-	"github.com/submariner-io/shipyard/test/e2e/framework"
+	"github.com/sridhargaddam/shipyard/test/e2e/framework"
 	submarinerv1 "github.com/submariner-io/submariner/pkg/apis/submariner.io/v1"
 	submarinerClientset "github.com/submariner-io/submariner/pkg/client/clientset/versioned"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

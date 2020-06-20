@@ -2,8 +2,8 @@ package dataplane
 
 import (
 	. "github.com/onsi/ginkgo"
-	"github.com/submariner-io/shipyard/test/e2e/framework"
-	"github.com/submariner-io/shipyard/test/e2e/tcp"
+	"github.com/sridhargaddam/shipyard/test/e2e/framework"
+	"github.com/sridhargaddam/shipyard/test/e2e/tcp"
 )
 
 var _ = Describe("[dataplane] Basic TCP connectivity tests across clusters without discovery", func() {
