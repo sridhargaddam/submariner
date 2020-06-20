@@ -5,8 +5,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/submariner-io/shipyard/test/e2e/framework"
-	"github.com/submariner-io/shipyard/test/e2e/tcp"
+	"github.com/sridhargaddam/shipyard/test/e2e/framework"
+	"github.com/sridhargaddam/shipyard/test/e2e/tcp"
 )
 
 var _ = PDescribe("[expansion] Test expanding/shrinking an existing cluster fleet", func() {
